@@ -1,5 +1,5 @@
-# Credit-Card-Customers-Segmentation
-Credit Card Customers Segmentation(Kmeans)
+# Credit-Card-Customer-Segmentation
+Credit Card Customer Segmentation(Kmeans)
 ## DATA AVAILABLE: 
 *CC GENERAL.csv 
 ## BUSINESS CONTEXT: 
